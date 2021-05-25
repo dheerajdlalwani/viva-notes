@@ -8,19 +8,6 @@
 ---
 <br>
 
-# Schedule
-
-- A chronological execution sequence of a transaction is called a schedule. A schedule can have many transactions in it, each comprising of a number of instructions/tasks.
-
-  - ## Serial Schedule
-    - It is a schedule in which transactions are aligned in such a way that one transaction is executed first. When the first transaction completes its cycle, then the next transaction is executed. Transactions are ordered one after the other.
-
-
-<br>
----
-<br>
-
-
 # Transaction States
 
 - A transaction in DBMS can be in one of the following states
